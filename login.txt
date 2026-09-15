@@ -1,2 +1,0 @@
-this is login file contains the username and password.
-This is for authentication.
